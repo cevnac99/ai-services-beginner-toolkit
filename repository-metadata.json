@@ -1,0 +1,26 @@
+{
+  "name": "ai-services-beginner-toolkit",
+  "visibility": "public",
+  "description": "Seven practical AI service playbooks, prompts, scorecards, and fictional-data demos for beginners who want to test a small service offer.",
+  "homepage": "https://www.agenticautomationacademy.com/free-ai-services-kit?utm_source=github&utm_medium=referral&utm_campaign=authority_sprint_2026_08",
+  "topics": [
+    "ai-agents",
+    "ai-automation",
+    "ai-services",
+    "small-business",
+    "freelancing",
+    "codex",
+    "claude-code",
+    "prompt-engineering",
+    "beginner-friendly",
+    "automation"
+  ],
+  "features": {
+    "issues": true,
+    "projects": false,
+    "wiki": false,
+    "discussions": false
+  },
+  "social_preview": "assets/github-social-preview.png",
+  "external_creation_requires_owner_confirmation": true
+}

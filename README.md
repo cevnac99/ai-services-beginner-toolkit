@@ -18,6 +18,8 @@ Use Codex, Claude Code, or another capable AI agent. Pick **one** agent and foll
 
 You do not need a large app, a live integration, or every AI tool to start.
 
+If you chose lead follow-up, [try the two free Academy lessons](https://www.agenticautomationacademy.com/free-preview?utm_source=github&utm_medium=referral&utm_campaign=authority_sprint_2026_08). Use the fictional cleaning business to write a service card that explains what the assistant drafts and what the owner checks before replying. You can read both lessons without an account.
+
 ## The seven playbooks
 
 | Service | Possible buyer | Small result to demonstrate | Playbook |
@@ -93,7 +95,6 @@ The templates are intentionally small. Their purpose is to help a beginner test 
 ## Free next steps
 
 - [Get the complete 7 AI Services Kit](https://www.agenticautomationacademy.com/free-ai-services-kit?utm_source=github&utm_medium=referral&utm_campaign=authority_sprint_2026_08)
-- [Take two complete free lessons](https://www.agenticautomationacademy.com/free-preview?utm_source=github&utm_medium=referral&utm_campaign=authority_sprint_2026_08)
 - [Build a one-sentence offer](https://www.agenticautomationacademy.com/tools/ai-automation-offer-builder?utm_source=github&utm_medium=referral&utm_campaign=authority_sprint_2026_08)
 - [Plan buyer conversations and a small first pilot](https://www.agenticautomationacademy.com/guides/find-first-ai-automation-client?utm_source=github&utm_medium=referral&utm_campaign=academy_2026_10&utm_content=toolkit_first_client_guide) — a four-step guide with discovery questions and a fictional-data demo outline.
 
